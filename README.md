@@ -14,5 +14,5 @@ The dataset contains a list of stocks and their opening and closing prices for a
 
 * The result should look as follows.
 
-![moderate_solution](Images/moderate_solution.png)
+![moderate_solution](images/moderate_solution.png)
 
