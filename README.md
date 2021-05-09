@@ -11,3 +11,8 @@ The dataset contains a list of stocks and their opening and closing prices for a
 :white_check_mark:The total stock volume of the stock.
 
 :white_check_mark:Conditional formatting highlights positive change in green and negative change in red.
+
+* The result should look as follows.
+
+![moderate_solution](Images/moderate_solution.png)
+
